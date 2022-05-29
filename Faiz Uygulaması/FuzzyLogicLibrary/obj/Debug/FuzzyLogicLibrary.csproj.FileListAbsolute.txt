@@ -1,0 +1,14 @@
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.XML
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+C:\Users\ibrah\Downloads\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.XML
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+C:\Users\murat\Downloads\fuzzynet_1_2_0_vs22\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
